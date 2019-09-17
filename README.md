@@ -51,6 +51,6 @@ A proximidade tem uma ligação muito grande com a segregação, pois um element
 
 A semelhança sugere que itens iguais passem a a se agrupar, fortalecendo  a identidade da composição e sua harmonia visual.
 
-## 8. A pregnancia da forma
+## 8. A pregnancia da forma :tokyo_tower:	
 
 Isso fala que uma forma quando sem precisar dizer nada ou atribuir um significado o subconsciente já subentende do que se trata, então essa forma tem pregnancia, pois não foi preciso explicar seu significado por ele ter sua forma já conhecida pelo coletivo.
