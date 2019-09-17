@@ -1,4 +1,4 @@
-# Anotacoes do curso "Gestalt, aplicando principios em um layout de photoshop"
+# Anotações do curso "Gestalt, aplicando principios em um layout de photoshop"
 :cyclone: A seguir algumas anotações que fiz com relação a esse curso
 
 >A gestalt leva em consideração as formas como um todo
