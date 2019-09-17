@@ -23,7 +23,7 @@ Esses principios são como as leis da natureza, por exemplo, as leis de newton; 
 
 Não para que tenhamos limites, mas para que seja possivel existir uma linguagem consistente que norteie as pessoas ao construir um layout.
 
-## 1. Unidade :soccer
+## 1. Unidade :soccer:
 
 Esse principio fala de formas que terminam em sí mesmas. Que tem um significado apenas. Que seus significados terminem em sí mesma, mesmo composta de vários objetos e formas diferentes.
 
