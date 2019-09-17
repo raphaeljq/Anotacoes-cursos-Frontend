@@ -35,7 +35,7 @@ Levando em consideração que Gestalt sempre está falando de formas, a segrega�
 
 Na unificação, elementos que já são completos se juntando com outros também já completos, formam novas formas com novos significados.
 
-## 4. Fechamento :heavy_check_mark
+## 4. Fechamento :heavy_check_mark:
 
 É quando algo visualmente está em harmonia e não é preciso mais que mais nem um elemento tenha sua posição, enfase ou característica alterada para que considere o layout fechado, concluído.
 
