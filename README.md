@@ -69,3 +69,20 @@ Utilizar detalhes com cores que náo contrastem tanto pode ser um bom uso do pri
 Os textos na web, precisam ter o chamado "leading" ( que é o espaço entre as linhas de um paragrafo) ajustado para uma segregação melhor dos mesmos, para uma leitura mais agradável e uma continuidade melhor.
 
 
+## :eyes: Propriedades da Percepção
+
+## Emergência
+
+Quando uma imagem( uma composição) precisam ser vistar por certo ponto de vista pra que sejam vistas.
+
+## Reificação
+
+Quando a composição só será percebida por que nosso cerebro ajuda a enxergarmos, mas na verdade a forma não está lá explicitamente. É uma percepção construido pela qualidade de nosso cerebro de fazer isso.
+
+## Multiestabilidade
+
+São composições que tem multipla interpretação. No fim acabamos não sabendo.
+
+## Invariância
+
+É quando percebemos as formas independente de como ela estiver sido mostrada. Mas sempre conseguiremos identifica-las.
